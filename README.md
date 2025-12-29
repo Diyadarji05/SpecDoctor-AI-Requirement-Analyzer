@@ -17,3 +17,9 @@ missing constraints, and contradictions in software specifications.
 
 ## Use Case
 Improves software quality by detecting requirement issues before development starts.
+
+## 📷 Screenshots
+
+![Home](screenshot1.png)
+![Analysis](screenshot2.png)
+![Results](screenshot3.png)
